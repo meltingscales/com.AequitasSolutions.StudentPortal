@@ -10,7 +10,7 @@ Nothing found.
 
 ### Snyk SAST
 
-Need to run jadx-gui.
+16 Medium findings. Nothing stands out.
 
 ## Commands
 
