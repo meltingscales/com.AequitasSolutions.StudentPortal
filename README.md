@@ -2,7 +2,7 @@
 
 ### gitleaks
 
-TODO
+Nothing found.
 
 ### apkurlgrep
 
@@ -10,7 +10,7 @@ Nothing found.
 
 ### Snyk SAST
 
-TODO
+Nothing found.
 
 ## Commands
 
